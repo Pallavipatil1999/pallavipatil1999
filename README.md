@@ -21,7 +21,7 @@
 
 # 🌌 About Me
 
-- 🎓 B.Tech CSE Student (2026 Passout)
+- 🎓 BE CSE Student
 - ☁️ AWS & DevOps Engineer
 - 🐳 Learning Docker, Kubernetes & Terraform
 - 🔧 Passionate about Automation & Cloud Infrastructure
@@ -104,18 +104,20 @@
 
 # 🎓 Academic Background
 
-## 🎓 Bachelor of Techn (B.Tech)
+## 🎓 Bachelor of Techn (BE)
 - Computer Science Engineering
-- Dr. Babasaheb Ambedkar Technological University (DBATU)
+- Kavayitri Bahinabai chuadhari North Maharastra University
+- CGPA : 8.18
+## 🎓 HHC
+- Maharashtra State Board of Nasik 
+- Percentage: 71.38.%
+
   
 
-## 🎓 Diploma in Computer Engineering
-- MIT Polytechnic, Chhatrapati Sambhaji Nagar
-- Percentage: 92.17%
 
 ## 🎓 SSC
-- Maharashtra State Board of Secondary and Higher Secondary Education, Pune
-- Percentage: 86.40%
+- Maharashtra State Board of Nasik
+- Percentage: 84.00%
 
 ---
 
