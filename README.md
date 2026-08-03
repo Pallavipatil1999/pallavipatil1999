@@ -73,11 +73,14 @@
 ---
 
 # 🏆 Certifications
-
+     
+     
 - ✅ Aviatrix Certified Engineer – Multicloud Network Associate
 - ✅ Solutions Architecture Job Simulation
 - ✅ Java By Kiran Academy
-
+-   Agentic AI Certified Foundations Associate Oracle
+-   Rest API(Intermediate) Certificate HackerRank
+-   SQL(Advanced) Certificate HackerRank
 ---
 
 # 🚀 Projects
