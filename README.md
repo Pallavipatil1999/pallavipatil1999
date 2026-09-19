@@ -4,7 +4,7 @@
 <!-- ██          GLACIER.OS DYNAMIC HERO SECTION                      ██ -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://PAllavi-Patil.github.io/Portfolio-/">
+<a href="">
   <img width="100%" src="./hero.svg?v=4" alt="PAllavi Patil Hero Section" />
 </a>
 
@@ -12,25 +12,25 @@
 
 <!-- ══════════════ GLACIER LINK BADGES ══════════════ -->
 
-<a href="https://Pallavi-patil.github.io/Portfolio-/">
+<a href="https://portfolio-rouge-ten-1dhxngvoym.vercel.app//">
   <img src="https://img.shields.io/badge/⚡_PORTFOLIO-38BDF8?style=for-the-badge&logoColor=black&labelColor=040910" alt="Portfolio"/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/PallaviPAtil/">
+<a href="www.linkedin.com/in/pallavi-patil-devops">
   <img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white&labelColor=040910" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://drive.google.com/file/d/1sSvI-UPhe_FvE0ypRYgzPECl5ng3pbRe/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_RESUME-22D3EE?style=for-the-badge&logoColor=black&labelColor=040910" alt="Resume"/>
+  <img src="https://drive.google.com/file/d/1aen04RfdVM_il-LmbNVsm98Cd74sEPJq/view?usp=drivesdk" alt="Resume"/>
 </a>&nbsp;
 <a href="mailto:pallavikpatil99@gmail.com">
   <img src="https://img.shields.io/badge/📧_EMAIL-38BDF8?style=for-the-badge&logoColor=black&labelColor=040910" alt="Email"/>
 </a>&nbsp;
-<a href="https://github.com/"Pallavi-Patil">
+<a href="https://github.com/Pallavipatil1999/pallavipatil1999">
   <img src="https://img.shields.io/badge/💻_GITHUB-5EEAD4?style=for-the-badge&logoColor=black&labelColor=040910" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubham-gayke&style=for-the-badge&color=38BDF8&label=SYSTEM+VISITORS&labelColor=040910" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Pallavi-Patil&style=for-the-badge&color=38BDF8&label=SYSTEM+VISITORS&labelColor=040910" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Pallavi-Patil?style=for-the-badge&color=22D3EE&label=NETWORK+NODES&labelColor=040910&logo=github" alt="Followers"/>
 
