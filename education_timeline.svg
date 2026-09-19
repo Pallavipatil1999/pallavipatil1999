@@ -176,7 +176,7 @@
     <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.1s" repeatCount="indefinite"/>
   </line>
 
-  <!-- ===================== NODE 1 : B-TECH (blue) ===================== -->
+  <!-- ===================== NODE 1 : BE CS(blue) ===================== -->
   <g>
     <circle cx="215" cy="287" r="44" fill="none" stroke="#2ea8ff" stroke-width="1.5" opacity="0.5">
       <animate attributeName="r" values="40;49;40" dur="2.4s" repeatCount="indefinite" begin="0s"/>
@@ -195,21 +195,21 @@
     <rect x="470" y="192" width="860" height="193" rx="14" fill="#081120" fill-opacity="0.92" stroke="#2ea8ff" stroke-width="1.6" filter="url(#glow)"/>
     <path d="M1290 202 L1310 202 M1300 202 L1320 222" stroke="#6fd7ff" stroke-width="2" opacity="0.8"/>
 
-    <text x="500" y="238" font-size="25" font-weight="700" fill="#f2f8ff">B-TECH IN COMPUTER SCIENCE ENGINEERING</text>
+    <text x="500" y="238" font-size="25" font-weight="700" fill="#f2f8ff">BE- IN COMPUTER SCIENCE ENGINEERING</text>
 
     <g transform="translate(502,258)">
       <path d="M-9 6 L0 -2 L9 6 M-6 6 V-1 H6 V6" fill="none" stroke="#6fd7ff" stroke-width="1.6"/>
     </g>
-    <text x="522" y="263" font-size="17" fill="#b9d9ff">Dr. Babasaheb Ambedkar Technological University</text>
+    <text x="522" y="263" font-size="17" fill="#b9d9ff">Noirth Maharashtra University</text>
 
     <rect x="500" y="298" width="180" height="42" rx="7" fill="#08192f" stroke="#2ea8ff" stroke-width="1.4"/>
     <text x="516" y="325" font-size="16" font-weight="700" fill="#9fd3ff">CGPA:</text>
-    <text x="590" y="326" font-size="19" font-weight="800" fill="#ffffff">8.12/10</text>
+    <text x="590" y="326" font-size="19" font-weight="800" fill="#ffffff">8.18/10</text>
 
     <use href="#icon-building" x="1080" y="192" width="240" height="193" style="color:#3fa8ff" opacity="0.85"/>
   </g>
 
-  <!-- ===================== NODE 2 : DIPLOMA (purple) ===================== -->
+  <!-- ===================== NODE 2 : SSC(purple) ===================== -->
   <g>
     <circle cx="215" cy="532" r="44" fill="none" stroke="#b15bff" stroke-width="1.5" opacity="0.5">
       <animate attributeName="r" values="40;49;40" dur="2.4s" repeatCount="indefinite" begin="0.5s"/>
@@ -228,7 +228,7 @@
     <rect x="470" y="415" width="860" height="233" rx="14" fill="#120c22" fill-opacity="0.92" stroke="#b15bff" stroke-width="1.6" filter="url(#glow)"/>
     <path d="M1290 425 L1310 425 M1300 425 L1320 445" stroke="#e79bff" stroke-width="2" opacity="0.8"/>
 
-    <text x="500" y="461" font-size="25" font-weight="700" fill="#f6ecff">DIPLOMA IN COMPUTER ENGINEERING</text>
+    <text x="500" y="461" font-size="25" font-weight="700" fill="#f6ecff">SECONDARY SCHOOL CERTIFICATE </text>
 
     <g transform="translate(502,481)">
       <path d="M-9 6 L0 -2 L9 6 M-6 6 V-1 H6 V6" fill="none" stroke="#e79bff" stroke-width="1.6"/>
@@ -237,11 +237,11 @@
 
     <rect x="500" y="521" width="180" height="42" rx="7" fill="#190f2c" stroke="#b15bff" stroke-width="1.4"/>
     <text x="516" y="548" font-size="16" font-weight="700" fill="#d3a8ff">Score:</text>
-    <text x="590" y="549" font-size="19" font-weight="800" fill="#ffffff">92.17%</text>
+    <text x="590" y="549" font-size="19" font-weight="800" fill="#ffffff">84%</text>
 
     <rect x="500" y="581" width="560" height="42" rx="7" fill="#1a0f2e" stroke="#ff6bcf" stroke-width="1.3"/>
     <use href="#icon-trophy" x="510" y="592" width="20" height="20" style="color:#ffd76a"/>
-    <text x="545" y="608" font-size="15" font-weight="700" letter-spacing="0.5" fill="#ffb3ea">1ST RANK IN POLYTECHNIC Final Year</text>
+    <text x="545" y="608" font-size="15" font-weight="700" letter-spacing="0.5" fill="#ffb3ea">1ST RANK </text>
     <g style="color:#ff6bcf">
       <use href="#icon-chevron" x="1005" y="592" width="18" height="18">
         <animate attributeName="opacity" values="0.2;1;0.2" dur="1.1s" repeatCount="indefinite" begin="0s"/>
@@ -257,7 +257,7 @@
     <use href="#icon-trophy" x="1085" y="425" width="220" height="200" style="color:#c56bff" opacity="0.9"/>
   </g>
 
-  <!-- ===================== NODE 3 : SSC (teal) ===================== -->
+  <!-- ===================== NODE 3 : HSC (teal) ===================== -->
   <g>
     <circle cx="215" cy="762" r="44" fill="none" stroke="#2be0c8" stroke-width="1.5" opacity="0.5">
       <animate attributeName="r" values="40;49;40" dur="2.4s" repeatCount="indefinite" begin="1s"/>
@@ -276,7 +276,7 @@
     <rect x="470" y="678" width="860" height="165" rx="14" fill="#071f1c" fill-opacity="0.92" stroke="#2be0c8" stroke-width="1.6" filter="url(#glow)"/>
     <path d="M1290 688 L1310 688 M1300 688 L1320 708" stroke="#7fffe0" stroke-width="2" opacity="0.8"/>
 
-    <text x="500" y="724" font-size="25" font-weight="700" fill="#eefffb">SECONDARY SCHOOL CERTIFICATE (SSC)</text>
+    <text x="500" y="724" font-size="25" font-weight="700" fill="#eefffb">HIGHER SECONDARY SCHOOL CERTIFICATE (HSC)</text>
 
     <g transform="translate(502,744)">
       <path d="M-9 6 L0 -2 L9 6 M-6 6 V-1 H6 V6" fill="none" stroke="#7fffe0" stroke-width="1.6"/>
@@ -285,7 +285,7 @@
 
     <rect x="500" y="784" width="180" height="42" rx="7" fill="#052622" stroke="#2be0c8" stroke-width="1.4"/>
     <text x="516" y="811" font-size="16" font-weight="700" fill="#7fe9d8">Score:</text>
-    <text x="590" y="812" font-size="19" font-weight="800" fill="#ffffff">86.40%</text>
+    <text x="590" y="812" font-size="19" font-weight="800" fill="#ffffff">71.38%</text>
 
     <use href="#icon-book" x="1090" y="695" width="210" height="140" style="color:#3fe0c8" opacity="0.9"/>
   </g>
