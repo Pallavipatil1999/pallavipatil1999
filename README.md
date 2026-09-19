@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white&labelColor=040910" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://drive.google.com/file/d/1sSvI-UPhe_FvE0ypRYgzPECl5ng3pbRe/view?usp=sharing">
-  <img src="https://drive.google.com/file/d/1aen04RfdVM_il-LmbNVsm98Cd74sEPJq/view?usp=drivesdk https://img.shields.io/badge/📄_RESUME-22D3EE?style=for-the-badge&logoColor=black&labelColor=040910alt="Resume"/>
+  <img src="https://img.shields.io/badge/📄_RESUME-22D3EE?style=for-the-badge&logoColor=black&labelColor=040910alt="Resume"/>
 </a>&nbsp;
 <a href="mailto:pallavikpatil99@gmail.com">
   <img src="https://img.shields.io/badge/📧_EMAIL-38BDF8?style=for-the-badge&logoColor=black&labelColor=040910" alt="Email"/>
