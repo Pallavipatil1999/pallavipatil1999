@@ -152,12 +152,12 @@
     <!-- Contact Info (Glowing & Bold) -->
     <g font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="bold">
       <text x="40" y="270" fill="#38BDF8" filter="url(#ggh-glow-strong)">
-        📞 +91 9168469745
+        📞 +91 7972877554
         <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
       </text>
       
       <text x="40" y="305" fill="#5EEAD4" filter="url(#ggh-glow-strong)">
-        ✉ shubhamgayke9860@gmail.com
+        ✉ pallavikpatil99@gmail.com
         <animate attributeName="opacity" values="0.8;1;0.8" dur="3.5s" repeatCount="indefinite"/>
       </text>
 
